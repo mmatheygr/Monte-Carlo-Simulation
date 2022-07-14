@@ -6,9 +6,9 @@ Created on Wed Jul 13 09:02:07 2022
 """
 
 import unittest
-from montecarlo import die
-from montecarlo import game
-from montecarlo import analyzer
+from montecarlosim.montecarlo import die
+from montecarlosim.montecarlo import game
+from montecarlosim.montecarlo import analyzer
 
 class MontecarloTestSuite(unittest.TestCase):
     

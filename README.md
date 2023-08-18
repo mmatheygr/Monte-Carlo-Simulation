@@ -1,4 +1,7 @@
 # Monte Carlo simulation
+## About this project
+This project was developed for the class Programming for data science from my Ms. in Data Science at the Unviersity of Virginia School of Data Science.
+
 ## Metadata
 - Student name: Mauricio Mathey
 - Project name: Monte carlo simulation
